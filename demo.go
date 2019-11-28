@@ -19,7 +19,7 @@ package main
 
 import (
 	"flag"
-	"github.com/bradfitz/rfbgo/rfb"
+	"github.com/zhaoya881010/rfbgo/rfb"
 	"github.com/kbinani/screenshot"
 	"image"
 	"log"
