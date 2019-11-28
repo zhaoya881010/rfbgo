@@ -1,4 +1,4 @@
-使用Golang实现RFB协议的服务端，使用UltraVNC客户端测试通过
+Golang实现RFB协议的服务端，使用UltraVNC客户端测试
 参考bradfitz/rfbgo
 
 
