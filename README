@@ -1,6 +1,4 @@
-This is a toy RFB (VNC) server.
+使用Golang实现RFB协议的服务端，使用UltraVNC客户端测试通过
+参考bradfitz/rfbgo
 
-I just wanted to learn the protocol. (conclusion: nice & simple)
-
-I'm not sure what I'm going to do with this now. Some stupid hacks come to mind.
 
